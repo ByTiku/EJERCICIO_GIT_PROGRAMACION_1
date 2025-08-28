@@ -17,7 +17,9 @@ public class Main {
         System.out.println("GIT CHECKOUT (rama que quiera) CAMBIO ENTRE RAMAS");
         System.out.println("GIT PULL ORIGIN (rama que quiera)");
 
-
+//ACTIVIDAD
+        //rama con nombre
+        //AGREGAR DEBAJO DE COMANDOS: EL NOMBRE COMPLETO - LUGAR DONDE VIVO Y SI TENGO UNA MASCOTA
 
 
     }
