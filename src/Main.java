@@ -21,6 +21,8 @@ public class Main {
         //rama con nombre
         //AGREGAR DEBAJO DE COMANDOS: EL NOMBRE COMPLETO - LUGAR DONDE VIVO Y SI TENGO UNA MASCOTA
 
-
+        System.out.println("NOMBRE COMPLETO: SERGIO NICOLAS NEIRA SALCEDO");
+        System.out.println("LUGAR DONDE VIVO: SESQUILE, CUNDINAMARCA");
+        System.out.println("MASCOTA: DOBERMAN Y SE LLAMA ZEUS");
     }
 }
