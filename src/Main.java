@@ -14,8 +14,8 @@ public class Main {
         System.out.println("GIT CLONE CLONA PROYECTO");
         System.out.println("GIT FETCH - RAMAS REMOTAS");
         System.out.println("GIT SWITCH -C -CREAR Y POSICIONARME SOBRE LA RAMA");
-
-
+        System.out.println("GIT CHECKOUT (rama que quiera) CAMBIO ENTRE RAMAS");
+        System.out.println("GIT PULL ORIGIN (rama que quiera)");
 
 
 
